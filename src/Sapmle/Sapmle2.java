@@ -7,9 +7,9 @@ public class Sapmle2
 	{
 		String a="Rajkumar J";
 		
-		int size = a.length();
+		int s = a.length();
 		
-		System.out.println(size);
+		System.out.println(s);
 	
 		
 	}
